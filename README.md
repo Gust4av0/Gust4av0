@@ -3,10 +3,12 @@
 - 💼 Hoje trabalho com Hardware e Suporte Técnico
 - 🎒 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas 🌱
 
+##
+
 <div>
   <a href="https//github.com/Gust4av0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust4av0&show_icons=true$theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4av0&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4av0&layout=compact&langs_count=16&theme=default"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,4 +28,4 @@
 
 ##
 
-- 📖 Todo trabalho árduo traz proveito, mas o só falar leva a pobreza! - Provérbios 14:23
+- 📖 Todo trabalho árduo traz proveito, mas o só falar leva a pobreza! - **Provérbios 14:23**
