@@ -1,7 +1,7 @@
-## Olá! Eu sou o Gustavo Marcolin Soares
+# Olá! Eu sou o Gustavo Marcolin Soares
 
-- 🔭 Hoje trabalho com Hardware e Suporte Técnico
-- 🌱 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+- 💼 Hoje trabalho com Hardware e Suporte Técnico
+- 🎒 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas 🌱
 
 <div>
   <a href="https//github.com/Gust4av0">
@@ -23,3 +23,7 @@
   <a href="wa.link/679c4y" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+- 📖 Todo trabalho árduo traz proveito, mas o só falar leva a pobreza! - Provérbios 14:23
