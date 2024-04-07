@@ -28,4 +28,4 @@
 
 ##
 
-- 📖 Todo trabalho árduo traz proveito, mas o só falar leva a pobreza! - **Provérbios 14:23**
+- 📖 Remindo o tempo, porque os dias são maus. - **Efésios 5:16**
