@@ -1,10 +1,3 @@
-# Olá! Eu sou o Gustavo Marcolin Soares
-
-- 💼 Hoje trabalho com Hardware e Suporte Técnico
-- 🎒 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas 🌱
-
-##
-
 <div>
   <a href="https//github.com/Gust4av0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust4av0&show_icons=true$theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,5 +21,3 @@
 </div>
 
 ##
-
-- 📖 Remindo o tempo, porque os dias são maus. - **Efésios 5:16**
